@@ -1,9 +1,11 @@
 import React from 'react';
-import TypingTest from './TypingTest';
+import FarmInput from './FarmInput';
+// import TypingTest from './TypingTest';
 
 const App = () => (
   <div>
-    <TypingTest />
+    {/* <TypingTest /> */}
+    <FarmInput/>
   </div>
 );
 
